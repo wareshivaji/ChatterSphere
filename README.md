@@ -1,6 +1,8 @@
 # ChatterSphere
 API's needed to make a Social Media Application 
 This project contains API's needed to make a Social Media Application.<br>
+Login<br>
+Sign up<br>
 User<br>
 Story<br>
 Reels<br>
